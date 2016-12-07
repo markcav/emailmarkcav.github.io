@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi all - let's turn ideas into usefully open-source tools and products!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Life-long learner, father of 4, owner of 2.5 acre micro-farm, tech lead at Cisco, and believes having the right questions are better than having the right answers.   
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emailmarkcav at gmail dot com](mailto:emailmarkcav@gmail.com)
