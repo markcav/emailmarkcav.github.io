@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi all - let's turn ideas into usefully open-source tools and products!
+Hi all - let's turn ideas into useful open-source tools and products that improve our lives!
 
 ### More Information
 
