@@ -8,7 +8,7 @@ Hi all - let's turn ideas into useful open-source tools and products that improv
 
 ### More Information
 
-Life-long learner, father of 4, owner of 2.5 acre micro-farm, tech lead at Cisco, and believes having the right questions are better than having the right answers.   
+Life-long learner, father of 4, owner of 2.5 acre micro-farm, leader of data and analytics at Cisco, and believes having the right questions are better than having the right answers.   
 
 ### Contact me
 
