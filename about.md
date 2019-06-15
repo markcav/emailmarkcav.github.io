@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi all - let's turn ideas into useful open-source tools and products that improve our lives!
+Let's build something useful. We are lucky enough to be living through a time where open-source technology, advancements in machine learning, and the internet are freely available to leverage and build solutions that can change how we live, work, learn, and play.
 
 ### More Information
 
-Life-long learner, father of 4, owner of 2.5 acre micro-farm, leader of data and analytics at Cisco, and believes having the right questions are better than having the right answers.   
+Life-long learner, father of 5, owner of 2.5 acre micro-farm, leader of data and analytics at Cisco, and believes having the right questions are better than having the right answers.   
 
 ### Contact me
 
