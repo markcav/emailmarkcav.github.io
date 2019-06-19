@@ -17,6 +17,4 @@ Layer 5 Waste - Automated process and task not adopted or utilized
 
 It's possible that traditionally defined waste can be reframed into value if your customer and/or market is well known. For example, think about going to the Airport and getting on a plane (sterile, designed for minimal waste) vs. going to Disney and going on rides (less sterile, design for experience). At a high-level these processes are very similar but optimize for different outcomes. This blog will attempt to provide useful tools to minimize waste, but maximize experiences (via open-source technology, data, analysis, and automation).  Let's have some fun.    
 
-{% include youtubePlayer.html id=page.pGYAg7TMmp0&t=266s %}
-
 For more resources head over to [markcav.com](http://markcav.com).
