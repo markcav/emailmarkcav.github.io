@@ -8,9 +8,6 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-  {% for post in site.posts %}
-  <img src="{{ site.baseurl }}/{{ post.img }}">
-  {% endfor %}
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
