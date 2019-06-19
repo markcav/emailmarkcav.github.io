@@ -3,7 +3,7 @@ layout: post
 title: Remove Waste, Enhance Experiences!
 ---
 ---
-img: first-post.png
+img: jekyll-now-theme-screenshot.jpg
 ---
 
 Generally speaking I remove waste, which in turn can enhance a wide range of experiences. Sounds simple. It actually can be simple, but don't confuse simple with easy. 
