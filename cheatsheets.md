@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cheatsheets
-permalink: /cheatsheets/
+permalink: /Cheatsheets/
 ---
 
 Here is a collection of cheatsheets that I have curated over the years. 
