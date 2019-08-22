@@ -8,7 +8,7 @@ Let's build something useful. We are lucky enough to be living through a time wh
 
 ### More Information
 
-Life-long learner, father of 5, owner of 2.5 acre micro-farm, leader of data and analytics at Cisco, and believes asking the right question is better than give the right answer.   
+Life-long learner, father of 5, owner of 2.5 acre micro-farm, leader of data and analytics at Cisco, and believe asking the right questions is better than giving the right answers.   
 
 ### Contact me
 
