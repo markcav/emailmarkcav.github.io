@@ -50,3 +50,12 @@ Creating a virtualenv for each project will simplify your life, avoiding version
     
 ### show the file's contents
     cat requirements.txt
+
+# When starting from refresh virtualenv or new pc, install requirements.txt to replicate dependancies:
+
+### For virtualenv to install all files, cd to the directory where requirements.txt is located
+
+### activate your virtualenv
+    source venv/bin/activate
+### run 
+    pip install -r requirements.txt
