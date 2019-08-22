@@ -7,6 +7,7 @@ permalink: /cheatsheets/
 Here is a collection of cheatsheets that I have curated over the years. 
 
 * Python Programming
+  * [Virtualenv]({% post_url 2019-07-10-How-to-create-virtualenv-&-requirements.txt.md %})
   * Pandas
   * Numpy
   * Flask 
