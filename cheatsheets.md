@@ -9,7 +9,7 @@ Here is a collection of cheatsheets that I have curated over the years.
 * Python Programming
   * [Virtualenv]({% post_url 2019-07-10-How-to-create-virtualenv-&-requirements-txt %})
   * [Pandas](/markcav.github.io/downloads/Pandas_Cheat_Sheet.pdf)
-  * Numpy
+  * [Numpy](/markcav.github.io/downloads/Numpy_Python_Cheat_Sheet.pdf)
   * Flask 
 * R
   * caret
@@ -18,14 +18,16 @@ Here is a collection of cheatsheets that I have curated over the years.
   * SQL
   * MongoDB aggregations
 * Linux Commands
+  * [Ubuntu](/markcav.github.io/downloads/Ubuntu-Reference-1.pdf)
+  * [Linux](/markcav.github.io/downloads/Linux-Reference-1.pdf)
 * Data Visualization 
-   * Tableau
-   * Google Data Studio
-   * Plotly
-   * Seaborn
+  * Tableau
+  * Google Data Studio
+  * Plotly
+  * Seaborn
 * Machine Learning
-   * Tensorflow
-   * scikit-learn
+  * Tensorflow
+  * scikit-learn
 * Automation / Scheduling
   * cron
   * windows task scheduler
