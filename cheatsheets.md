@@ -15,7 +15,8 @@ Here is a collection of cheatsheets that I have curated over the years.
   * caret
   * dplyr 
 * ETL
-  * SQL
+  * [SQL basics](/markcav.github.io/downloads/SQL-cheat-sheet.pdf)
+  * [SQL for data science](/markcav.github.io/downloads/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf)
   * MongoDB aggregations
 * Linux Commands
   * [Ubuntu](/markcav.github.io/downloads/Ubuntu-Reference-1.pdf)
