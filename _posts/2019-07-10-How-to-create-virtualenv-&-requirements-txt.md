@@ -3,7 +3,9 @@ layout: post
 title: How to create virtualenv and requirements.txt for python projects
 ---
 
-# Let's install an virtualenv for our python projects:
+Creating a virtualenv for each project will simplify your life, avoiding version and package conflicts across multiple projects. When you are ready to publish, creating a requirements.txt allows other users to replicate your app or script output (you will thank yourself later). 
+
+# How to install virtualenv for python projects:
 
 ### Install **pip** first
 
