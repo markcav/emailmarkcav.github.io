@@ -28,8 +28,13 @@ Here is a collection of cheatsheets that I have curated over the years.
 * Automation / Scheduling
   * cron
   * windows task scheduler
-  * airflow
-
+  * Airflow
+* Data Storage
+  * SQLite
+  * Postgres
+* Containerization
+  * Docker
+* APIs
 
 
 ### Contact me
