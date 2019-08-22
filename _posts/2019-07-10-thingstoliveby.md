@@ -3,7 +3,8 @@ layout: post
 title: Things to Live By...No particular order
 ---
 
-I carry a small notepad with me to capture ideas, concepts, or just random points. Here is a list I compiled recently…   
+I carry a small notepad with me to capture ideas, concepts, or just random points. Here is a list I compiled recently…
+
     
 * Spend money to remove a negative (instead of adding a positive)
 
