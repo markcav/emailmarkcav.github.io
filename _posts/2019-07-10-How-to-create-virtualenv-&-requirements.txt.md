@@ -1,3 +1,7 @@
+---
+layout: post
+title: How to create virtualenv and requirements.txt for python projects
+---
 
 # Let's install an virtualenv for our python projects:
 
