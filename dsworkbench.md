@@ -11,7 +11,7 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 
 # Tasks above-average data science teams do well...
 
-| Tasks     | Description   | Tools & Technologies|
+| **Tasks**     | **Description**   | **Tools & Technologies**|
 |-----------|-------------|-------------------|
 | Identify opportunities or problems    |   Gain context of products, processes, key decisions, and control points| Interviews, SWOT, SIPOC, Process Mapping, Affinity Mapping, Ishikawa diagram, FMEA,QFD,KPIs        |
 | Define problem and measure impact    | Understand urgency, severity, complexity, and business impact. Should be convincing in order to gain suppoer and resources (if needed)           |   Problem Statement Guidelines, Avoid Solutioning      |
