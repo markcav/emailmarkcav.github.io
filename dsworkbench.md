@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Build a Data Science Team Workbench!
+title: Data Science Workbench
 permalink: /dsworkbench/
 ---
 
