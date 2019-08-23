@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Build a Data Science Team Workbench!
+permalink: /Data Science Team Workbench/
 ---
 
 Data science teams need an environment that allows them to connect with stakeholders, gain context fast, work through data at scale (beyond their PCs), and publish, share, and enable others to make data-driven decisions. Luckly we are at point where most the technologies, tools and techniques are open sourced (see below), given us more time to focus on the domain, the problem, the people, the process. Ultimately, the latter makes a more effective data science team. 
