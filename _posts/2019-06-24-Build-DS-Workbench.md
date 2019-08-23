@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Build a data science workbench!
+title: Building a data science workbench!
 ---
 
-Data science teams need an environment that allows them to work at scale (beyond their PCs). Luckly we are at point where most the data science tools are open source and can build our own workbench that can actually handle production level service if needed. (side note - We are starting to see a consolidation in the industry where data science offering are complete stack of technologies for maturing field of data science. 
+Data science teams need an environment that allows them to connect with stakeholders, gain context fast, work through data at scale (beyond their PCs), and publish, share, and enable others to make data-driven decisions. Luckly we are at point where most the technologies, tools and techniques are open sourced (see below), given us more time to focus on the domain, the problem, the people, the process. Ultimately, the latter makes use more effective data scientists. 
 
-# What tasks above-average data scientist do well...
+# What is a data scientist workbench?
+My 94 year old grandfather (Vern) had a workbench in his garage. I was in love with his space. He made wooden sailboats,toys, furniture, fixed wobbly chairs...whatever grandmas needs were, he figured it out. He seemed to have the right tools, at the right place, at the time right. I was inspired by this. Back to us. With proven problem solving methodologies (DMAIC & Six Sigma have been around since 1980s) and open source technology, advancement in machine learning and data everywhere... having a data science workbench is critical. Data scientist tasks range from asking right questions, gaining domain knowledge, assessing opportunities/problems, and acquiring the right data, tools, technologies to enable an effective solutions. Below I will attempt to document the end-to-end range of data scientist tasks and provide how-to's, code-examples, open source resources, and general overall playbook on being a effective data scientist.
+
+# Tasks above-average data scientists do well...
 
 | Tasks       | Description   | Tools & Technologies| Training|
 | ------------- |:-------------:| -----:  |-----: |
