@@ -20,7 +20,7 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 |Acquire data   |   Ability to ingest data from various data sources| Webscrapping, APIs, Sensors, B2B feeds, Audio, Images, SQL and NoSQL languages |
 | Store data  | select right database technology, create/design tables, write data, and create data model (make data consumeable) | Postgres, Pgadmin4, MongoDB, SAP Hana, Hadoop, Cloud Storage|
 | Access and transform data   | Ability to query data tables & join, aggregate, clean, validate useable dataset| SQL and NoSQL (MongoDB aggregation), Python, Notebooks, Pandas, Numpy, Loops, Excel    |
-| Automate data pipelines    | Schedule datasets to be automatically updated/refreshed | Cron, Windows Task Scheduler, Airflow     |  TBD     |
+| Automate data pipelines    | Schedule datasets to be automatically updated/refreshed | Cron, Windows Task Scheduler, Airflow     |
 | Visualize Data   | Ability to interpret and ask questions of dataset to gain context of domain    |   Tableau, Spotfire, Google Data Studio, Seaborn, Plotly, Matplotlib   |
 | Identify key variables   | Determine relationships and correlations of variables and effect on response variable / control point          | EDA, Correlation Matrix, Covariance, ANOVA, t-test, Histograms, I-MR Charts, Kruskal-Wallis Test, Multi-Vari Chart, Density Plots, Normal Probability Plot, Pareto Charts, p chart, Regression, Root Sum of Sqaures, Run Chart, Scatter plot, Xbar-R charts        |
 | Select and Build M.L. Models   | Ability to select effective model to address objectives/goal           | Classification, Regression, Clustering, Optimization, Decision-Tree, Bayesian Trees, Neutral Nets, Distance Formulas, scikit-learn, caret, tensorflow      |
