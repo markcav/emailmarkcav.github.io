@@ -5,7 +5,7 @@ title: Build a data science workbench!
 
 Data science teams need an environment that allows them to work at scale (beyond their PCs). Luckly we are at point where most the data science tools are open source and can build our own workbench that can actually handle production level service if needed. (side note - We are starting to see a consolidation in the industry where data science offering are complete stack of technologies for maturing field of data science. 
 
-# What are the above-average data scientist tasks?
+# What tasks above-average data scientist do well...
 
 | Tasks       | Description   | Tools & Technologies| Training|
 | ------------- |:-------------:| -----:  |-----: |
