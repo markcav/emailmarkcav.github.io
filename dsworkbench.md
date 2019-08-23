@@ -29,5 +29,3 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 | Document and Storytell  | Ability to articulate approach, findings, challenges, results to both collegues and business leaders through written and verbal communication  | github, git, markdown, Tableau, powerpoint, research paper template | TBD     |
 | Package solution | Make solution useful. Build minimum-vaiable product (MVP) for consumer/user to interact with solutions          |  Flask, Dash, Ploty, RShiny, Tableau | TBD    |
 | Measure Change Management   | Ability to assess adoption of solution and recieve feedback | Stakeholder Analysis, Performance and Compliance Metrics, Data Collection Plan, Surveys, Audits, Marketing and Communication Plan  |  TBD     | 
-
-{% include html_doc_template.html %}
