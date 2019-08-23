@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Building a data science workbench!
+title: Building a data science team workbench!
 ---
 
 Data science teams need an environment that allows them to connect with stakeholders, gain context fast, work through data at scale (beyond their PCs), and publish, share, and enable others to make data-driven decisions. Luckly we are at point where most the technologies, tools and techniques are open sourced (see below), given us more time to focus on the domain, the problem, the people, the process. Ultimately, the latter makes a more effective data science team. 
 
-# What is a data scientist workbench?
+# What is a data science workbench?
 My 94 year old grandfather (Vern) had a workbench in his garage. I was in love with his space. He made wooden sailboats,toys, furniture, fixed wobbly chairs...whatever grandmas needs were, he figured it out. He seemed to have the right tools, at the right place, at the time right. I was inspired by this. Back to us. With proven problem solving methodologies (DMAIC & Six Sigma have been around since 1980s) and open source technology, advancement in machine learning and data everywhere... having a data science workbench is critical. Data science teams tasks range from asking right questions, gaining domain knowledge, assessing opportunities/problems, and acquiring the right data, tools, technologies to enable an effective solutions. Below I will attempt to document the end-to-end range of task for a data science team and provide how-to's, code-examples, open source resources, and general overall playbook.
 
 # Tasks above-average data science teams do well...
