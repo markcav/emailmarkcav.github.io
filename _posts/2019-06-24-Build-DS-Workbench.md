@@ -5,31 +5,25 @@ title: Build a data science workbench!
 
 Data science teams need an environment that allows them to work at scale (beyond their PCs). Luckly we are at point where most the data science tools are open source and can build our own workbench that can actually handle production level service if needed. (side note - We are starting to see a consolidation in the industry where data science offering are complete stack of technologies for maturing field of data science. 
 
-# What are the technical tasks data scientist need to do anyways?
-> Understanding domain, whats the problem statement, and impact of solution is absolutely critical, thats's another time
-  #### Acquire data
-  #### Store data
-  #### Accesss, aggregate, transform data
-  #### Automate data pipelines and scripts
-  #### Visualize data and publish dashboards for consumption
-  #### Identify key insights - variables, new features, interactions, and impact to response/desired outcome
-  #### Train, test, validate M.L. Models
-  #### Understand compute and HW limits
-  #### Knowledge of effective containerization and VMs
-  #### Document and present findings / storytell
+# What are the above-average data scientist tasks?
 
-> Above are the tasks needed to be successful, but regard different tools and technologies. 
-
-# What are tools and technologies that can enable a data scientist to scale. 
-#### Acquire data - python, APIs, SQL and NoSQL query languages
-#### Store data - select right database technology, create/design tables, write data, and create data model for future
-#### Access data from database - SQL and NoSQL query languages
-#### Automate data pipepline - cron job, windows task scheduler, airflow
-#### Visualize data - Tableau, Seaborn, Plotly, Spotfire, Excel, Google Data Studio
-#### Identify key insights - explorative data analysis, summary statistics, distributions, model fitting, ANOVAs
-#### Machine Learning Models - frame problem into response variable and select useful model (classification, regression, clustering, neutral networks, optimization), tensorflow, scikit-learn, caret 
-#### Understand Compute and HW limits - GPU vs CPU
-#### Containerization and VMs - docker, virtualbox
-#### Document findings / storytell - powerpoint, github, markdown
+| Tasks       | Description   | Tools & Technologies| Training|
+| ------------- |:-------------:| -----:  |-----: |
+| Identify opportunities or problems    |   Gain context of products, processes, key decisions, and control points| Interviews, SWOT, SIPOC, Process Mapping, Affinity Mapping, Ishikawa diagram, FMEA,QFD,KPIs        |  TBD     |
+| Define problem and measure impact    | Understand urgency, severity, complexity, and business impact. Should be convincing in order to gain suppoer and resources (if needed)           |   Problem Statement Guidelines, Avoid Solutioning      |  TBD     |
+| Set a business goal for project   |  Goals can be incremental or transformative (or both). Understanding impact if goal is not met can help determine level of precision/accuracy/scalabilty against cost. |   SMART goals, Benchmarking, Normality Test     |  TBD     |
+| Prioritize Problems / Opportunities   |  Gain business alignment on priorities |   Prioritization Matrix, Cause and Effect Matrix     |  TBD     |
+|Acquire data   |   Ability to ingest data from various data sources| Webscrapping, APIs, Sensors, B2B feeds, Audio, Images, SQL and NoSQL languages |  TBD     |
+| Store data  | select right database technology, create/design tables, write data, and create data model (make data consumeable) | Postgres, Pgadmin4, MongoDB, SAP Hana, Hadoop, Cloud Storage|  TBD     |
+| Access and transform data   | Ability to query data tables & join, aggregate, clean, validate useable dataset| SQL and NoSQL (MongoDB aggregation), Python, Notebooks, Pandas, Numpy, Loops, Excel    |  TBD    |
+| Automate data pipelines    | Schedule datasets to be automatically updated/refreshed | Cron, Windows Task Scheduler, Airflow     |  TBD     |
+| Visualize Data   | Ability to interpret and ask questions of dataset to gain context of domain    |   Tableau, Spotfire, Google Data Studio, Seaborn, Plotly, Matplotlib   |  TBD     |
+| Identify key variables   | Determine relationships and correlations of variables and effect on response variable / control point          | EDA, Correlation Matrix, Covariance, ANOVA, t-test, Histograms, I-MR Charts, Kruskal-Wallis Test, Multi-Vari Chart, Density Plots, Normal Probability Plot, Pareto Charts, p chart, Regression, Root Sum of Sqaures, Run Chart, Scatter plot, Xbar-R charts        |  TBD     |
+| Select and Build M.L. Models   | Ability to select effective model to address objectives/goal           | Classification, Regression, Clustering, Optimization, Decision-Tree, Bayesian Trees, Neutral Nets, Distance Formulas, scikit-learn, caret, tensorflow      |  TBD     |
+| Implement effective containerization and Virtual environments   | Ability to contain experiments and projects within a local environment to avoid version conflicts. Also makes projects portable/shareable       |   Docker, DockerHub, virtualenv |  TBD     |
+| Understand compute & HW limits   | Understand trade-off of time and cost regarding computational power  | GPUs vs CPUs, Differentiable programming (e.g Tensorflow), Cloud Services, Distributed Computing (e.g Dask), Kubernetes     |  TBD    |
+| Document and Storytell  | Ability to articulate approach, findings, challenges, results to both collegues and business leaders through written and verbal communication  | github, git, markdown, Tableau, powerpoint, research paper template | TBD     |
+| Package solution | Make solution useful. Build minimum-vaiable product (MVP) for consumer/user to interact with solutions          |  Flask, Dash, Ploty, RShiny, Tableau | TBD    |
+| Measure Change Management   | Ability to assess adoption of solution and recieve feedback | Stakeholder Analysis, Performance and Compliance Metrics, Data Collection Plan, Surveys, Audits, Marketing and Communication Plan  |  TBD     | 
 
 {% include html_doc_template.html %}
