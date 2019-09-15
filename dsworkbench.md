@@ -22,7 +22,7 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 
 | **Tasks**     | **Description**   | **Tools & Technologies**|
 |-----------|-------------|-------------------|
-| **Identify opportunities or problems**    |   Gain context of products, processes, key decisions, and control points| Interviews, SWOT, SIPOC, Process Mapping, Affinity Mapping, Ishikawa diagram, FMEA,QFD,KPIs        |
+| **Identify opportunities or problems**    |   Gain context of products, processes, key decisions, and control points| Interviews, SWOT, SIPOC, Process Mapping, Affinity Mapping, Issue Trees, Ishikawa diagram, FMEA,QFD,KPIs        |
 | **Define problem and measure impact**    | Understand urgency, severity, complexity, and business impact. Should be convincing in order to gain suppoer and resources (if needed)           |   Problem Statement Guidelines, Avoid Solutioning      |
 | **Set a business goal for project**   |  Goals can be incremental or transformative (or both). Understanding impact if goal is not met can help determine level of precision/accuracy/scalabilty against cost. |   SMART goals, Benchmarking, Normality Test |
 | **Prioritize Problems / Opportunities**   |  Gain business alignment on priorities |   Prioritization Matrix, Cause and Effect Matrix     |
