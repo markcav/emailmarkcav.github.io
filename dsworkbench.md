@@ -16,7 +16,7 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 | **Data Products**    | Build useful apps, tools, dashboards which can have embedded M.L / A.I algorithms | Starting with descriptive (BI) and automation use-cases can establish trust and drive productivity, but upskilling other teams/communities to handle that is a must to focus core resources on more advanced analytics.|
 | **Consultancy**    | Identify problems and opportunities, assess impact, risk, and return | Establish trust as early as possible and challenge with "why?" first before getting into details on the "what?". Many teams want solutions without validating specific problem.|
 | **Data-driven Diagnostics**    | Structured problem solving, identify root cause, and effective improvement plans|Starting with executive metrics and mapping to operational metrics and even specific processes can become an asset for effective diagnostics|
-| **Ad-hoc analysis for Executive**    |Provide informed decisions on complex and strategtic issues| With mature data foundation, context of domain, and strong understanding of "horizantal" impact up and down-stream of issue, this engagement is important to create top-down culture of being analytically-driven.
+| **Ad-hoc analysis for Executives**    |Provide informed decisions on complex and strategtic issues| With mature data foundation, context of domain, and strong understanding of "horizantal" impact up and down-stream of issue, this engagement is important to create top-down culture of being analytically-driven.
 
 # Tasks data science teams need to do well...
 
