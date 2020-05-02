@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Type of Metrics for Operation Teams
-permalink: /metrictypes/
 ---
+
 
 Operations Teams all need metrics. Most the time teams have too many metrics. The key is to clearly understand objective of each metric and how it fits into overall metric strategy. Here is a framework I have built over the years.
 
