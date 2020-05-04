@@ -11,7 +11,7 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 
 # Full-Service Data Science Engagements
 
-**Engagements** | Description |Insights
+**Engagements** | **Description** |**Insights**
 ---|---|---
  **Data Enablement**    | Make curated datasets available for consumption| Investment can be large early on, but a well established and understood data foundation will scale for descriptive, diagnostic, and predictive analysis.|
  **Data Products**    | Build useful apps, tools, dashboards which can have embedded M.L / A.I algorithms | Starting with descriptive (BI) and automation use-cases can establish trust and drive productivity, but upskilling other teams/communities to handle that is a must to focus core resources on more advanced analytics.|
