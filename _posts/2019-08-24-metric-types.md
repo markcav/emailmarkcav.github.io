@@ -12,3 +12,4 @@ Operations Teams all need metrics. Most the time teams have too many metrics. Th
 | **Compliance Metrics** | Drive adoption, measure desired behavior |    Commonly used to change behavior or help with moving to new systems, tools, and processes. |
 | **Risk Metrics** | Identifies potential issues or areas needing additional assessment. |     |
 | **Sentiment  Metrics** | Perception, Feeling, can have spectrum of Responses, commonly qualitative, can be informative indicator of retention, loyalty, and growth. |     |
+{:.table-striped}
