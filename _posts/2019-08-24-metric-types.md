@@ -15,3 +15,8 @@ Operations Teams all need metrics. Most the time teams have too many metrics. Th
 | **Risk Metrics**    | Identifies potential issues or areas needing additional assessment.||
 | **Sentiment  Metrics**    |Perception, Feeling, can have spectrum of Responses, commonly qualitative, can be informative indicator of retention, loyalty, and growth.| |
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
