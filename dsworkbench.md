@@ -10,6 +10,7 @@ Data science teams need an environment that allows them to connect with stakehol
 My 94 year old grandfather (Vern) had a workbench in his garage. I was in love with his space. He made wooden sailboats,toys, furniture, fixed wobbly chairs...whatever grandma needed, he figured it out. He seemed to have the right tools, at the right place, at the time right. I was inspired by this. Back to us. With proven problem solving methodologies (DMAIC and Six Sigma have been around since 1980s) and open source technology, advancement in machine learning and data everywhere... having a data science workbench is critical. Data science teams tasks range from asking right questions, gaining domain knowledge, assessing opportunities/problems, and acquiring the right data, tools, technologies to enable an effective solutions. Below is a collection of frameworks, techqiques, how-to's, code-examples and tools that I have collected over the years supporting the end-to-end range of task for a data science team.
 
 # Full-Service Data Science Engagements
+
 **Engagements** | Description |Insights
 ---|---|---
 | **Data Enablement**    | Make curated datasets available for consumption| Investment can be large early on, but a well established and understood data foundation will scale for descriptive, diagnostic, and predictive analysis.|
