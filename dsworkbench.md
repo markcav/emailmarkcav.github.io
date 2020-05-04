@@ -10,8 +10,8 @@ Data science teams need an environment that allows them to connect with stakehol
 My 94 year old grandfather (Vern) had a workbench in his garage. I was in love with his space. He made wooden sailboats,toys, furniture, fixed wobbly chairs...whatever grandma needed, he figured it out. He seemed to have the right tools, at the right place, at the time right. I was inspired by this. Back to us. With proven problem solving methodologies (DMAIC and Six Sigma have been around since 1980s) and open source technology, advancement in machine learning and data everywhere... having a data science workbench is critical. Data science teams tasks range from asking right questions, gaining domain knowledge, assessing opportunities/problems, and acquiring the right data, tools, technologies to enable an effective solutions. Below is a collection of frameworks, techqiques, how-to's, code-examples and tools that I have collected over the years supporting the end-to-end range of task for a data science team.
 
 # Full-Service Data Science Engagements
-| **Engagements** | **Description** |**Insights**|
-|-----------|-------------|-------------------|
+**Engagements** | **Description** |**Insights**
+-----|-------------|-----
 | **Data Enablement**    | Make curated datasets available for consumption| Investment can be large early on, but a well established and understood data foundation will scale for descriptive, diagnostic, and predictive analysis.|
 | **Data Products**    | Build useful apps, tools, dashboards which can have embedded M.L / A.I algorithms | Starting with descriptive (BI) and automation use-cases can establish trust and drive productivity, but upskilling other teams/communities to handle that is a must to focus core resources on more advanced analytics.|
 | **Consultancy**    | Identify problems and opportunities, assess impact, risk, and return | Establish trust as early as possible and challenge with "why?" first before getting into details on the "what?". Many teams want solutions without validating specific problem.|
@@ -20,8 +20,8 @@ My 94 year old grandfather (Vern) had a workbench in his garage. I was in love w
 
 # Tasks data science teams need to do well...
 
-| **Tasks**     | **Description**   | **Tools & Technologies**|
-|-----------|-------------|-------------------|
+|**Tasks**|**Description**|**Tools & Technologies**
+-----------|-------------|-------------------
 | **Identify opportunities or problems**    |   Gain context of products, processes, key decisions, and control points| Interviews, SWOT, SIPOC, Process Mapping, Affinity Mapping, Issue Trees, Ishikawa diagram, FMEA,QFD,KPIs        |
 | **Define problem and measure impact**    | Understand urgency, severity, complexity, and business impact. Should be convincing in order to gain suppoer and resources (if needed)           |   Problem Statement Guidelines, Avoid Solutioning      |
 | **Set a business goal for project**   |  Goals can be incremental or transformative (or both). Understanding impact if goal is not met can help determine level of precision/accuracy/scalabilty against cost. |   SMART goals, Benchmarking, Normality Test |
